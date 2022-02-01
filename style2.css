@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    background-color: darkslategrey;
+}
+
+header {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+.link-header {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.name {
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 5px 5px black;
+}
+
+.link-nava {
+    text-decoration: none;
+    color: cornsilk;
+    margin-left: 20px;
+}
+
+.link-navb {
+    text-decoration: none;
+    color: cornsilk;
+    margin-left: 250px;
+}
+
+li{
+    color: blanchedalmond;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-big {
+    color: blanchedalmond;
+    font-size: large;
+}
+
+.link-text {
+    color: azure;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
